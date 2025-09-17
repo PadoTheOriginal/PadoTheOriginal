@@ -9,9 +9,11 @@ I find a new one or start a new one.
 In my repositories you will find my personal projects, some of them I haven't changed the code since I did them, I may have optimized some of them, but I always add
 something here and there.
 
+<!---
 <div>
   <img height="180em" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PadoTheOriginal&layout=compact&langs_count=7&theme=radical" />
 </div>
+--->
 
   
 <div>
